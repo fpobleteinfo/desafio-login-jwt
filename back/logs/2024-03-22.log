@@ -1,0 +1,198 @@
+
+Started POST /usuarios for :: ::1 at Fri Mar 22 2024 11:02:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"fpobleteinfo@gmail.com","password":"12345678","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Completed: 201 message:  Time response: 157 ms Request ID: [2fb6db0c-0f39-4ca3-9fc1-5a72440cf3a0]
+
+Started POST /usuarios for :: ::1 at Fri Mar 22 2024 11:12:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"camilaccd@gmail.com","password":"123","rol":"Frontend Developer","lenguage":"Ruby"}
+Completed: 201 message:  Time response: 189 ms Request ID: [a8ad16cb-3ec7-48de-8f68-e8b665678702]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 11:34:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"fpobleteinfo@gmail.com","password":"12345678"}
+Completed: 400 message:  Time response: 161 ms Request ID: [93f1645b-e706-4170-96b1-c4ecec3f5ad6]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 11:35:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"fpobleteinfo@gmail.com","password":"123456"}
+Completed: 400 message:  Time response: 101 ms Request ID: [cb6c1c82-b260-4a98-a370-4a062cb75256]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 11:35:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"fpobleteinfo@gmail.com","password":"12345"}
+Completed: 400 message:  Time response: 6 ms Request ID: [383a1a02-a0de-4913-9b25-738408380e3c]
+
+Started POST /usuarios for :: ::1 at Fri Mar 22 2024 11:40:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"fpobleteinfo@gmail.com","password":"12345678","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Completed: 201 message:  Time response: 190 ms Request ID: [6b3d30b2-f163-49a7-8ba1-1cc2de0b86d2]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 11:40:07 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"fpobleteinfo@gmail.com","password":"12345678"}
+Completed: 400 message:  Time response: 10 ms Request ID: [10f6d276-a55a-4cf1-affb-6981ad73202a]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 11:43:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"fpobleteinfo@gmail.com","password":"12345678"}
+Completed: 200 message:  Time response: 154 ms Request ID: [e2b192f3-5326-45cf-9e1a-625253b77bfb]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 11:44:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"fpobleteinfo@gmail.com","password":"12345678"}
+Completed: 400 message:  Time response: 15 ms Request ID: [f21307cb-b5c8-4654-8978-01da8fd36564]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 11:44:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"fpobleteinfo@gmail.com","password":"12345678"}
+Completed: 200 message:  Time response: 130 ms Request ID: [7aaccfb3-064a-4082-b006-03c4c7609783]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 11:45:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"fpobleteinfo@gmail.com","password":"12345678"}
+Completed: 200 message:  Time response: 158 ms Request ID: [6e641213-997f-4537-8991-389775241761]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 11:45:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"fpobleteinfo@gmail.com","password":"12345678"}
+Completed: 200 message:  Time response: 138 ms Request ID: [a5b11e19-66e7-4552-848a-f80b4b52597a]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 11:45:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"fpobleteinfo@gmail.com","password":"12345678"}
+Completed: 200 message:  Time response: 125 ms Request ID: [aca7f1a9-45bb-4e56-b66f-97fa0cf4fb17]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 12:00:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"fpobleteinfo@gmail.com","password":""}
+Completed: 400 message:  Time response: 9 ms Request ID: [db73e559-41f2-4b58-bee8-915ee8e03484]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 12:00:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"fpobleteinfo@gmafil.com","password":"12345678"}
+Completed: 400 message:  Time response: 110 ms Request ID: [ea60f479-18f7-436b-857e-10f3a8eb96e4]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 12:01:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"fpobleteinfo@gmail.com","password":"123vv45678"}
+Completed: 400 message:  Time response: 127 ms Request ID: [fbfbcc3b-a0c5-4d8d-badd-b7c4a5e03e02]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 12:01:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"fpobletecinfo@gmail.com","password":"12345678"}
+Completed: 400 message:  Time response: 9 ms Request ID: [8eefd1cc-f656-40f7-8e49-13990481758d]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 12:01:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"fpobleteinfo@gmail.com","password":"12345678"}
+Completed: 200 message:  Time response: 101 ms Request ID: [2797f07c-7af3-42ee-b17f-0a80f7a5422a]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 12:10:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"fpobleteinfo@gmail.com","password":"12345678"}
+Completed: 200 message:  Time response: 115 ms Request ID: [098a96d9-a42a-44bf-9c71-2d4c104a14b1]
+
+Started GET /usuarios/fpobleteinfo@gmail.com for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 12:20:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 102 ms Request ID: [c2c1ca66-68eb-42b7-89a7-5eb7661fc292]
+
+Started GET /usuarios/fpobleteinfo@gmail.cl for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 12:20:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 8 ms Request ID: [9dde3cb9-1b58-4beb-8836-2bc1acdbaf73]
+
+Started GET /usuarios/fpobleteinfo@gmail.com for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 12:20:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 7 ms Request ID: [28643815-a52a-4d92-b6cb-379533b48759]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 12:23:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"fpobleteinfo@gmail.com","password":"12345678"}
+Completed: 200 message:  Time response: 185 ms Request ID: [24492c64-293d-49fa-86ad-d2605f4226c8]
+
+Started POST /login for :: ::1 at Fri Mar 22 2024 12:23:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 400 message:  Time response: 4 ms Request ID: [87cd0d0e-aa07-43d2-9fc2-8d9dbb28ccbe]
+
+Started POST /usuarios for :: ::1 at Fri Mar 22 2024 12:23:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Completed: 201 message:  Time response: 114 ms Request ID: [904d12a9-e75b-467c-a056-97e3b4519dc2]
+
+Started GET /usuarios/fpobleteinfo@gmail.com for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 12:43:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 13 ms Request ID: [bcb12a3c-ab42-46a7-bfde-05c87eca756d]
+
+Started GET /usuarios/fpobleteinfo@gmail.com for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 12:43:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 127 ms Request ID: [e8a6a0d5-ea90-4f92-a10d-1c3be49415eb]
+
+Started GET /usuarios/fpobleteinfo@gmail.com for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 12:43:56 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 8 ms Request ID: [c90e6fbd-1ee5-40f2-908b-846a2ca8d99d]
+
+Started GET /usuarios/fpobleteinfo@gmail.com for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 12:43:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 6 ms Request ID: [210de0f7-deeb-4eda-9a0d-056be3415219]
+
+Started GET /usuarios/fpobleteinfo@gmail.co for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 12:44:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 81 ms Request ID: [ab5fa5eb-f8e8-426f-9028-da797f0252ad]
+
+Started GET /usuarios/fpobleteinfo@gmail.co for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 12:44:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 4 ms Request ID: [d3e5396c-0b3c-4b0f-a9da-0423a9d51b86]
+
+Started GET /usuarios/fpobleteinfo@gmail.com for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 12:44:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 9 ms Request ID: [b6108b10-b9ec-4ead-9f14-fb94b5c828bd]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 12:45:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"","password":"","rol":"","lenguage":""}
+Completed: 201 message:  Time response: 189 ms Request ID: [e0b91ac2-7de5-43d4-a39e-b546f2ca17a6]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 12:45:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"","password":"","rol":"","lenguage":""}
+Started POST /login for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 12:51:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"fpobleteinfo@gmail.com","password":"12345678"}
+Completed: 200 message:  Time response: 235 ms Request ID: [bc33aaa2-5f61-40c3-874c-c206a27e8f14]
+
+Started GET /usuarios/fpobleteinfo@gmail.com for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 12:51:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 7 ms Request ID: [c53d580c-a3fc-4572-b603-364b7c2ace08]
+
+Started GET /usuarios/fpobleteinfo@gmail.com for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 12:51:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 7 ms Request ID: [2dcfd2de-3285-45c0-825e-cd338bd66b9e]
+
+Started GET /usuarios/fpobleteinfo@gmail.com for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 12:51:50 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 3 ms Request ID: [9b10b3ac-9623-4948-8fe9-efaf60e5b7df]
+
+Started GET /usuarios/fpobleteinfo@gmail.com for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 12:51:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 124 ms Request ID: [2d3827cc-c3c9-4254-8237-f8f1a5424792]
+
+Started GET /usuarios/fpobleteinfo@gmail.com for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 12:52:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 8 ms Request ID: [d359a999-a687-467b-b141-9759909c5b8e]
+
+Started GET /usuarios/fpobleteinfo@gmail.com for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 12:52:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 5 ms Request ID: [610072bb-9d43-4593-ba55-b04c920770d9]
+
+Started GET /usuarios/fpobleteinfo@gmail.com for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 12:52:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [471bfb0b-daf7-4414-bf31-a0239f1017e5]
+
+Started GET /usuarios/fpobleteinfo@gmail.com for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 12:52:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 4 ms Request ID: [3716e4d7-f5df-411b-b56f-f2db97365a0a]
+
+Started GET /usuarios/fpobleteinfo@gmail.com for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 12:52:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 8 ms Request ID: [8733bfe2-1db0-4b38-80cb-52887b48c26b]
+
+Started GET /usuarios/fpobleteinfo@gmail.com for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 12:52:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 10 ms Request ID: [6da58af7-6882-4a30-bfde-751d12567ea0]
+
+Started GET /usuarios/fpobleteinfo@gmail.com for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 12:52:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 8 ms Request ID: [af84150b-5153-4a81-948a-dee90b073b5c]
+
+Started GET /usuarios/fpobleteinfo@gmail.com for :: ::ffff:127.0.0.1 at Fri Mar 22 2024 12:52:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 5 ms Request ID: [9068f004-c801-4b09-bec5-978ea8fd10b7]
+
+Started POST /login for :: ::1 at Fri Mar 22 2024 12:53:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 200 message:  Time response: 217 ms Request ID: [960e75a8-8326-4a04-82c2-f5eb24662fba]
+
+Started GET /usuarios for :: ::1 at Fri Mar 22 2024 12:53:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 6 ms Request ID: [93d36559-d7f9-4501-b794-8f029faf3c93]
+
+Started GET /usuarios for :: ::1 at Fri Mar 22 2024 12:53:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 5 ms Request ID: [dc0490f0-d3e4-42d6-81fd-20fdb07f0ef7]
